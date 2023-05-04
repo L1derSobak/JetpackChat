@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284181847248",
+    "project_id": "jetpackchat-61a19",
+    "storage_bucket": "jetpackchat-61a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284181847248:android:526997f8ebac730c0052d5",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284181847248-v7sl78eomdsasktpkgu0fmv4h5k2mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicmdqcSO_-lD1bg-uRb-QPeYwcXGKvTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284181847248-v7sl78eomdsasktpkgu0fmv4h5k2mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
